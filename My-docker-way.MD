@@ -9,7 +9,7 @@
 ### Access container
 `docker exec -ti d98c8a689c13 /bin/sh`
 
-### restart container
+### Restart container
 `docker restart d98c8a689c13`
 
 ### Logs
