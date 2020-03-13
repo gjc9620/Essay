@@ -21,3 +21,6 @@
 
 ### Delete all remote tag
 `git push origin --delete $(git tag -l)`
+
+### Checkout 
+`git checkout tags/version 1.0`
