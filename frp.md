@@ -56,4 +56,4 @@ subdomain = ae86
 # stop
 `ps -aux|grep frp| grep -v grep`
 
-`kill -9`
+`kill -9 pid`
